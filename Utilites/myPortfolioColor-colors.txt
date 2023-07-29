@@ -1,0 +1,12 @@
+Your selected colors:
+
+   dark-mode(default){
+      
+      background-color:rgb(25, 20, 42);
+      text-color:E8EEF2
+      linear-gradient(to right, orange, red);
+   }
+
+   light-mode{
+      background-color:
+   }

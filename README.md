@@ -5,7 +5,7 @@
 
 # Description
 My first webpage and also my portfolio
-<a href="https://voidrak.github.io/">click here </a>
+<a href="https://voidrak.github.io/" target="_blank">click here </a>
 
 # Features
 it's a one page portfolio which include about me , other projects and contacts. it is a responsive webpage for different devices

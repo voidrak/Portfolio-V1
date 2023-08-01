@@ -229,14 +229,16 @@ a:any-link {
   height: 40px;
   margin-right: 10vw;
   border: 2px solid var(--ACCENT-COLOR);
-  border-radius: 20px;
+  border-radius: 20px;    
+  width: 10vw;
   max-width: 200px;
+  min-width: 80px;
   box-shadow: var(--HEAD-SHADOW-DESK);
 }
-.resume p {
+/* .resume p {
   white-space: nowrap;
   font-size: 100%;
-}
+} */
 .about {
   display: flex;
   flex-flow: column nowrap;

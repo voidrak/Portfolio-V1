@@ -15,7 +15,7 @@ My first webpage and also my portfolio
 
 # Features
 
-it's a one page portfolio which include about me , other projects and contacts. it is a responsive webpage for different devices
+it's a one-page portfolio that includes about me, other projects, and contacts. it is a responsive webpage for different devices
 
 # Screenshots
 

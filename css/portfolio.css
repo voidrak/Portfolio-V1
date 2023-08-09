@@ -362,7 +362,7 @@ section .contact-us h1::after,
 }
 .project figure img {
   width: 90vw;
-  /* aspect-ratio: 2/1; */
+  aspect-ratio: 2.5/1;
   height: auto;
   box-shadow: var(--HEAD-SHADOW-DESK);
 }

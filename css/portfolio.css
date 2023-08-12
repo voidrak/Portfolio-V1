@@ -24,7 +24,7 @@ header {
   width: 100%;
 }
 body {
-  width: 100%;
+  width: 100vw;
   background-color: var(--BDCOLOR);
   color: var(--TXTCOLOR);
 }

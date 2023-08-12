@@ -24,7 +24,7 @@ header {
   width: 100%;
 }
 body {
-  width: 100vw;
+/*   width: 100vw; */
   background-color: var(--BDCOLOR);
   color: var(--TXTCOLOR);
 }
@@ -233,7 +233,7 @@ a:any-link {
 .top-main p {
   margin-left: 1rem;
   color: var(--TXTCOLOR);
-  font: 3.1rem monospace;
+  font: 5vw monospace;
   font-weight: 900;
   margin-bottom: 0.5rem;
 }

@@ -24,7 +24,7 @@ header {
   width: 100%;
 }
 body {
-/*   width: 100vw; */
+  /*   width: 100vw; */
   background-color: var(--BDCOLOR);
   color: var(--TXTCOLOR);
 }
@@ -207,7 +207,7 @@ a:any-link {
 .outer {
   display: flex;
   flex-flow: column nowrap;
-  /* width: 100vw; */
+  width: 100vw;
   height: 100vh;
   position: relative;
 }
@@ -245,7 +245,7 @@ a:any-link {
 }
 .top-main p:nth-child(3) {
   font-weight: 400;
-  font-size: 2rem;
+  font-size: 3vw;
 }
 .top-main p:last-child {
   /* text-align: justify; */
@@ -261,10 +261,10 @@ a:any-link {
   position: relative;
   /* background-color: red; */
   max-width: 60vw;
-  display:none;
+  /* display:none; */
 }
 .bitmoji img {
-  width: 50%;
+  width: 50vw;
   max-width: 550px;
   height: auto;
 }
@@ -495,7 +495,7 @@ textarea {
     margin-top: 3rem;
   }
   .shapes i {
-    font-size: 5rem;
+    font-size: 10vw;
   }
   .shapes h1 {
     font-size: 5vw;

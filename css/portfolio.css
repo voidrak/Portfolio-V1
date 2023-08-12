@@ -261,6 +261,7 @@ a:any-link {
   position: relative;
   /* background-color: red; */
   max-width: 60vw;
+  display:none;
 }
 .bitmoji img {
   width: 50%;

@@ -260,11 +260,11 @@ a:any-link {
   margin-top: 1rem;
   position: relative;
   /* background-color: red; */
-  max-width: 60vw;
-  /* display:none; */
+  max-width: 50vw;
+  /* display: none; */
 }
 .bitmoji img {
-  width: 50vw;
+  width: 40vw;
   max-width: 550px;
   height: auto;
 }

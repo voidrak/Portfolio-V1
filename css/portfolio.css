@@ -245,7 +245,7 @@ a:any-link {
 }
 .top-main p:nth-child(3) {
   font-weight: 400;
-  font-size: 3vw;
+  font-size: 2rem;
 }
 .top-main p:last-child {
   /* text-align: justify; */
@@ -263,7 +263,7 @@ a:any-link {
   max-width: 60vw;
 }
 .bitmoji img {
-  width: 50vw;
+  width: 50%;
   max-width: 550px;
   height: auto;
 }

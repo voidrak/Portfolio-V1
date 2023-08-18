@@ -342,12 +342,12 @@ section .contact-us h1::after,
 .shapes {
   margin-top: 1rem;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   place-content: center;
   /* width: 100%; */
-  column-gap: 1rem;
+  column-gap: 2.5rem;
   margin-right: 2rem;
-  margin-left: 2rem;
+  margin-left: 1rem;
 }
 .shapes i {
   font-size: 5rem;

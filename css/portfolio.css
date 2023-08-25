@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: "Nunito", sans-serif;
   scroll-behavior: smooth;
+  outline: 1px solid red;
   /* overflow-y: hidden; */
 }
 :root {
@@ -207,7 +208,7 @@ a:any-link {
 .outer {
   display: flex;
   flex-flow: column nowrap;
-  width: 100vw;
+  /* width: 100vw; */
   height: 100vh;
   position: relative;
 }
@@ -261,12 +262,15 @@ a:any-link {
   position: relative;
   /* background-color: red; */
   max-width: 50vw;
+  transform: scale(0.9);
+
   /* display: none; */
 }
 .bitmoji img {
   width: 40vw;
   max-width: 550px;
   height: auto;
+  /* transform: scale(0.9); */
 }
 
 .about-mid {

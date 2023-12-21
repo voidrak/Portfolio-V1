@@ -424,21 +424,6 @@ section .contact-us h1::after,
   color: var(--BDCOLOR);
 }
 
-@media screen and (max-width: 800px) {
-  .project-container {
-    width: 100%;
-    display: grid;
-    grid-template-columns: 1fr;
-    justify-content: space-between;
-  }
-  .project-container .right-col {
-    border: none;
-  }
-  .project-container .all-project img {
-    max-width: 90%;
-    aspect-ratio: 3/2;
-  }
-}
 section {
   position: relative;
   display: flex;
@@ -587,5 +572,24 @@ textarea {
     margin-top: 4rem;
     margin-right: 2rem;
     box-shadow: var(--HEAD-SHADOW-DESK);
+  }
+  .icon-inner i:hover {
+    scale: 1.2;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .project-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: space-between;
+  }
+  .project-container .right-col {
+    border: none;
+  }
+  .project-container .all-project img {
+    max-width: 90%;
+    aspect-ratio: 3/2;
   }
 }

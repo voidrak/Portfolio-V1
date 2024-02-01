@@ -17,13 +17,6 @@ My first webpage and also my portfolio
 
 it's a one-page portfolio that includes about me, other projects, and contacts. it is a responsive webpage for different devices
 
-# Screenshots
-
-<img src="img/screenshot444 (1).png">
- <img src="img/screenshot508 (2).png">
-  <img src="img/screenshot527 (3).png">
-  <img src="img/screenshot546 (4).png"> 
-  <img src="img/screenshot605 (5).png">
 
 # Tech Used
 

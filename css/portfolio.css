@@ -406,6 +406,9 @@ section .contact-us h1::after,
   flex-flow: column nowrap;
   align-items: center;
 }
+.project-container .all-project h2 {
+  margin-top: 10px;
+}
 .project-container .all-project img {
   max-width: 35vw;
   aspect-ratio: 3/2;
@@ -413,6 +416,7 @@ section .contact-us h1::after,
 .project-details {
   display: flex;
   column-gap: 1rem;
+  margin-top: 10px;
 }
 .project-container .all-project .btn {
   border: 1px solid --BDCOLOR;

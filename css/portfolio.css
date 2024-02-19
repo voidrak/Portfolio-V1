@@ -582,6 +582,10 @@ textarea {
   .icon-inner i:hover {
     scale: 1.2;
   }
+
+  .second-main p {
+    width: 650px;
+  }
 }
 
 @media screen and (max-width: 800px) {
@@ -597,5 +601,16 @@ textarea {
   .project-container .all-project img {
     max-width: 90%;
     aspect-ratio: 3/2;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .second-main p {
+    width: 768px;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .second-main p {
+    width: 1024px;
   }
 }

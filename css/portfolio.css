@@ -533,6 +533,9 @@ textarea {
     width: 90%;
     max-width: 600px;
   }
+  .top-main p:last-child {
+    padding-right: 10rem;
+  }
 }
 @media screen and (min-width: 768px) {
   .mob-head {

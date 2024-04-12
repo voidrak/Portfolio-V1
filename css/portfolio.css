@@ -633,4 +633,7 @@ textarea {
   .outer {
     padding: 5rem 6rem 0 6rem;
   }
+  .desk-head figure {
+    margin-left: 4rem;
+  }
 }

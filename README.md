@@ -12,7 +12,9 @@
 
 My first webpage and also my portfolio
 <a href="https://voidrak.github.io/" target="_blank">click here </a>
-
+</br>
+Check out my latest portfolio 
+<a href="https://nahomdev.me" target="_blank">here </a>
 # Features
 
 it's a one-page portfolio that includes about me, other projects, and contacts. it is a responsive webpage for different devices
